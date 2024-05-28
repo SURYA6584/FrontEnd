@@ -1,0 +1,6 @@
+.restaurant-image {
+    height: 200px; /* Set the desired fixed height */
+    width: 100%; /* Set the width to fill the container */
+    object-fit: cover; /* Maintain the image's aspect ratio and cover the container */
+  }
+  
